@@ -28,5 +28,19 @@ This project aims to enhance Tiller's restaurant management system with analytic
 The dataset file for this project can be found [here](dataset_schema.md)
 
 
+### ⁉️ Q&A
+
+**Question:** Do you understand your data?
+**Answer:** Yes
+
+**Question:** Do you have all the data you need?
+**Answer:** No
+
+**Question:** Do you need to look for more? 
+**Answer:** NO
+
+
+
+
 
 
