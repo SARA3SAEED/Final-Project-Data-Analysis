@@ -18,11 +18,6 @@ This project aims to enhance Tiller's restaurant management system with analytic
 | Examine sales trends over time to identify peak hours, days, and months | As a restaurant owner, I want to examine sales trends over time to identify peak hours, peak days, and peak months. This will help me optimize staffing levels, inventory management, and marketing strategies to maximize revenue and customer satisfaction. | - Retrieve sales data from the "order_data" and "Payment_data" tables. <br> - Calculate the total revenue generated during each time interval. <br> - Identify peak sales periods. | - Final data can be displayed clearly and concisely in one chart. |
 
 
-## Tech Stack
-- Looker 
-- BigQuery
-- Google sheet
-- Notion
 
 ### Dataset File
 The dataset file for this project can be found [here](dataset_schema.md)
@@ -39,6 +34,43 @@ The dataset file for this project can be found [here](dataset_schema.md)
 **Question:** Do you need to look for more? 
 **Answer:** NO
 
+
+## Tech Stack
+- Looker 
+- BigQuery
+- Google sheet
+- Notion
+
+
+### 🧽 Data Cleaning
+
+#### 📱 Clean Order Data Table
+- Change column names into meaningful names.
+- Check the Primary key.
+- Check for duplicate values.
+- Check for null values.
+- [Query Link](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1ssmart-bite-final-da-project!2sus-central1!3sbc86bd9e-1b26-4b18-8902-266623a3b227!2e1)
+
+#### 👤 Clean Order Line Table
+- Change column names into meaningful names.
+- Check the Primary key.
+- Check for duplicate values.
+- Check for null values.
+- [Query Link](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1ssmart-bite-final-da-project!2sus-central1!3sa6d189ec-7622-44f5-8406-52c65a99e717!2e1)
+
+#### 💸 Clean Payment Data Table
+- Change column names into meaningful names.
+- Check the Primary key.
+- Check for duplicate values.
+- Check for null values.
+- [Query Link](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1ssmart-bite-final-da-project!2sus-central1!3s6e6e02e8-378c-46b8-9a1a-f01702cb09b6!2e1)
+
+#### 🏪 Clean Store Data Table
+- Change column names into meaningful names.
+- Check the Primary key.
+- Check for duplicate values.
+- Check for null values.
+- [Query Link](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1ssmart-bite-final-da-project!2sus-central1!3s27ebf52f-ba56-4597-a89c-8d22bd774f3d!2e1)
 
 
 
