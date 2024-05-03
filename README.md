@@ -4,13 +4,15 @@
 ## Difficulty: Medium
 
 ### Context
-[Tiller](https://www.tillersystems.com/) by Sumup offers more than just a cash register; it presents an entire ecosystem of solutions empowering restaurant owners to efficiently manage their businesses.
+[Tiller](https://www.tillersystems.com/) by Sumup offers comprehensive solutions for restaurant management, lacking only in analytical tools. 
 
-Despite this, Tiller currently lacks an analytical tool for restaurant owners. However, they’re shifting their focus to bridge this gap, and you’re here to assist!
-
-The provided dataset holds a substantial collection of orders from various restaurants across Paris—a rarity in itself.
+Our task is to fill this gap with insights from a dataset of restaurant orders across Paris.
 
 ### Potential Analysis Ideas
-1. Unveil the best Key Performance Indicators (KPIs) to track, including turnover, quantity sold, and waitstaff activities.
-2. Restaurant proprietors require tools for informed decision-making, such as sales forecasting.
-3. Get inventive; contemplate meal recommendations and how they stack up against competitors.
+1. Identify key performance indicators (KPIs) like turnover and sales volume.
+2. Develop sales forecasting capabilities.
+3. Explore meal recommendations and competitive analysis.
+
+
+### Dataset File
+The dataset file for this project can be found [here](dataset_schema.md).
