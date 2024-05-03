@@ -36,10 +36,12 @@ The dataset file for this project can be found [here](dataset_schema.md)
 
 
 ## Tech Stack
-- Looker 
-- BigQuery
-- Google sheet
-- Notion
+
+- [Looker](https://lookerstudio.google.com/s/lfVl7mkRGdQ)
+- [BigQuery](https://console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1ssmart-bite-final-da-project!2sTiller_Dataset)
+- [Google Sheets](https://docs.google.com/spreadsheets/d/1IPDQ9qLjIOauvk-IAzmQg59IiZ3dZsMGiWmy10FII_k/edit?usp=sharing)
+- [Notion](https://www.notion.so/SmartBites-Empowering-Restaurants-with-Data-driven-Insights-1ddce15ea3f44a8c9b3e65d9ec148c2e?pvs=4)
+
 
 
 ### 🧽 Data Cleaning:
