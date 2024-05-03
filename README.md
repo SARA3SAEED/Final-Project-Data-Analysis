@@ -73,6 +73,12 @@ The dataset file for this project can be found [here](dataset_schema.md)
 - [Query Link](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1ssmart-bite-final-da-project!2sus-central1!3s27ebf52f-ba56-4597-a89c-8d22bd774f3d!2e1)
 
 
+### 👨‍👩‍👧‍👦 Join tables
+
+Combine all tables, incorporating relevant metrics to enhance data visualization and analysis capabilities.
+
+
+
 
 
 
