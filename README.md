@@ -1,16 +1,15 @@
-# Project Data Case: Tiller’s Restaurant Analytics
+## 📈 Project Data Case: Tiller’s Restaurant Analytics
 
-## Industry: Business Management
-## Difficulty: Medium
-[Tiller](https://www.tillersystems.com/) by Sumup offers comprehensive solutions for restaurant management, lacking only in analytical tools. 
+##  Industry: Business Management
+##  Difficulty: Medium
 
+[Tiller](https://www.tillersystems.com/) by Sumup offers comprehensive solutions for restaurant management, lacking only in analytical tools.
 
-## Overview
+## 🪟 Overview
 
 This project aims to enhance Tiller's restaurant management system with analytical tools. By leveraging a dataset of restaurant orders across Paris, we seek to provide insights to restaurant owners for better decision-making and improved performance.
 
-
-### Hypotheses:
+### 💡 Hypotheses:
 
 | Hypothesis                                                  | User Story                                                                                                       | Specifications                                                                                               | Acceptance Criteria                                                                                                                                         |
 |-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -19,7 +18,7 @@ This project aims to enhance Tiller's restaurant management system with analytic
 
 
 
-### Dataset File
+### 📑 Dataset File
 The dataset file for this project can be found [here](dataset_schema.md)
 
 
@@ -35,7 +34,7 @@ The dataset file for this project can be found [here](dataset_schema.md)
 **Answer:** NO
 
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 - [Looker](https://lookerstudio.google.com/s/lfVl7mkRGdQ)
 - [BigQuery](https://console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1ssmart-bite-final-da-project!2sTiller_Dataset)
@@ -89,7 +88,16 @@ Combine all tables, incorporating relevant metrics to enhance data visualization
 
 
 
-### 🎖️ Our team :
+### 🎖️ Our team:
+
+👥 Meet the Team:
+
+-  Fatima Alzahrani 
+-  Kenaz Baharith 
+-  Leenah Saeed 
+-  Bashair Alharbi 
+
+
 
 
 
