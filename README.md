@@ -82,6 +82,11 @@ Combine all tables, incorporating relevant metrics to enhance data visualization
 
 ### 📊 Dashboard:
 
+![Image 1](https://drive.google.com/uc?id=1DSJE0VleR58mXwZBEsox_x5lVNar3QQs)
+![Image 2](https://drive.google.com/uc?id=1XhRtl52tFI0fE-Dc8XxfSXOFw3J_2DTK)
+![Image 3](https://drive.google.com/uc?id=1pfF1PA6R3rowHwE7u2ZcOBCvKv7kC_tO)
+![Image 4](https://drive.google.com/uc?id=1HVeOmsINwgNdUb36VUjsC0oGaaDd7U9y)
+
 
 
 ### 🎖️ Our team :
